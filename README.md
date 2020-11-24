@@ -20,6 +20,8 @@ Kriteria yang dimiliki aplikasi ini, antara lain:
 3. Rating
 4. Jumlah Fasilitas / Wahana
 
+![Preview](preview.jpg)
+
 # Template
 
 Aplikasi ini menggunakan template [NewBiz](https://bootstrapmade.com/newbiz-bootstrap-business-template/)
